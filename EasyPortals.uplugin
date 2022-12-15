@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "EasyPortals",
+	"Description": "Helper Functions and TOols for creating portals in Unreal",
+	"Category": "Other",
+	"CreatedBy": "Ryan DowlingSoka",
+	"CreatedByURL": "ryandowlingsoka.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}
